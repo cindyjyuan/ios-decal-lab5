@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Snapchat Camera/ImagePickerViewController.swift"
+            timestampString = "511853368.807492"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ImagePickerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.sendImageButton.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853369.710343"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.sendImageButton.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853369.737161"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; snapChatProject.ImagePickerViewController"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853369.741589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;snapChatProject.ImagePickerViewController&gt;"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853369.744584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Snapchat Camera/ImagePickerViewController.swift"
+            timestampString = "511853372.097233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ImagePickerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.cancelButton.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853372.540576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.cancelButton.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853372.5439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; snapChatProject.ImagePickerViewController"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853372.546926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "snapChatProject.ImagePickerViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;snapChatProject.ImagePickerViewController&gt;"
+                  moduleName = "snapChatProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cindyyuan/ios-decal-lab5/Snapchat%20Camera/ImagePickerViewController.swift"
+                  timestampString = "511853372.549368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
